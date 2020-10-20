@@ -1,0 +1,5 @@
+﻿1>------ 已启动生成: 项目: 90-b1, 配置: Debug Win32 ------
+1>90-b1-tools.cpp
+1>90-b1.vcxproj -> D:\works\popstar\Debug\90-b1.exe
+1>90-b1.vcxproj -> D:\works\popstar\Debug\90-b1.pdb (Partial PDB)
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
